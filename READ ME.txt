@@ -1,0 +1,8 @@
+Install the folwoing modules:
+
+pip install numpy
+
+pip install scipy 
+
+pip install matplotlib 
+
